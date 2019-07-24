@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Image Filters</string>
+    <string name="activity_title_main">EasyPic</string>
+    <string name="action_settings">Settings</string>
+    <string name="filters">FILTER</string>
+    <string name="edit">EDIT</string>
+    <string name="Easy_Pic">EASY Pic</string>
+    <string name="lbl_brightness">BRIGHTNESS</string>
+    <string name="lbl_contrast">CONTRAST</string>
+    <string name="lbl_saturation">SATURATION</string>
+    <string name="tab_filters">FILTERS</string>
+    <string name="tab_edit">EDIT</string>
+
+
+    <string name="roboto_medium">sans-serif-medium</string>
+    <string name="filter_normal">Normal</string>
+    <string name="action_save">SAVE</string>
+    <string name="action_open">OPEN</string>
+    <string name="image_preview">Image Preview</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
